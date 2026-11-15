@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "talktorana-memory-concurrent-save",
+  "original_repository": "talktorana/agent-harness",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/data/assessment-candidate-batches/2026-11-06-13.json",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/talktorana-memory-s2/CONTRIBUTION_HANDOFF.md"
+  ],
+  "title": "Prevent lost updates during concurrent memory revisions",
+  "work_state": "DELIVERED",
+  "next_action": "Historical metadata only; owner PAUSE prohibits new engineering and publication",
+  "source_revision": "7b2f57b70849c33fb38c6188ab12ceff42cd099c",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/talktorana-memory-s2/CONTRIBUTION_HANDOFF.md",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/talktorana-memory-s2/concurrent-revise-retire.patch"
+  ],
+  "work_branches": [],
+  "external_prs": [
+    "https://github.com/talktorana/agent-harness/pull/1"
+  ],
+  "last_event_id": null
+}
